@@ -92,6 +92,8 @@ Me chamo Igor Nathan Lira, tenho 20 anos, nascido e criado em São Paulo - Zona 
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <div align="left">
